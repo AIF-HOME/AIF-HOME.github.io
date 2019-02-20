@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://AIF-HOME.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: AIF
+subtitle: "让巨象跳舞学会跳舞"
+description: "AIF的博客"
+keywords: AIF
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: AIF-HOME
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: AIF-HOME
+location: Nanjing, China
+email: louyue@asiainfo.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: AIF-HOME/AIF-HOME.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,17 +95,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: AIF-HOME
+    repo: AIF-HOME.github.io
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: cf4d37af2a2e8b9e55d3
+        client_secret: 05aa1d1f9dc563d30ef63c29a0d0c1faf0822fb3
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: AIF-HOME
+    repo: AIF-HOME.github.io
+    clientID: cf4d37af2a2e8b9e55d3
+    clientSecret: 05aa1d1f9dc563d30ef63c29a0d0c1faf0822fb3
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
