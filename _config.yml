@@ -16,10 +16,10 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: aif-home
-organization: 
-organization_url: 
+organization:
+organization_url:
 github_username: aif-home
-location: Nanjing, China
+location: nanjing, China
 email: louyue@asiainfo.com
 
 # ---------------- #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: AIF-HOME/AIF-HOME.github.io
+repository: aif-home/aif-home.github.io
 
 # ---------------- #
 #      Comments    #
@@ -92,7 +92,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 
+    username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: aif-home
@@ -123,3 +123,5 @@ simple_jekyll_search:
 # ---------------- #
 google:
     analytics_id: UA-80669434-1
+
+theme: jekyll-theme-cayman
