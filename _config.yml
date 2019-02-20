@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://AIF-HOME.github.io
+url: https://aif-home.github.io
 date_format: "ordinal"
 title: AIF
 subtitle: "让巨象跳舞学会跳舞"
@@ -15,10 +15,10 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: AIF-HOME
+author: aif-home
 organization: 
 organization_url: 
-github_username: AIF-HOME
+github_username: aif-home
 location: Nanjing, China
 email: louyue@asiainfo.com
 
@@ -95,17 +95,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: AIF-HOME
-    repo: AIF-HOME.github.io
+    owner: aif-home
+    repo: aif-home.github.io
     oauth:
-        client_id: cf4d37af2a2e8b9e55d3
-        client_secret: 05aa1d1f9dc563d30ef63c29a0d0c1faf0822fb3
+        client_id: 12a25e6b4fec28de2ea3
+        client_secret: 4331b2c00a2e1ead64fafe789bd63ff109fd1f29
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: AIF-HOME
-    repo: AIF-HOME.github.io
-    clientID: cf4d37af2a2e8b9e55d3
-    clientSecret: 05aa1d1f9dc563d30ef63c29a0d0c1faf0822fb3
+    owner: aif-home
+    repo: aif-home.github.io
+    clientID: 12a25e6b4fec28de2ea3
+    clientSecret: 4331b2c00a2e1ead64fafe789bd63ff109fd1f29
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
