@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://aif-home.github.io
+url: https://aif-family.github.io/
 date_format: "ordinal"
 title: AIF
 subtitle: "让巨象跳舞学会跳舞"
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: aif-home/aif-home.github.io
+repository: aif-family/aif-family.github.io/
 
 # ---------------- #
 #      Comments    #
@@ -96,14 +96,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: aif-home
-    repo: aif-home.github.io
+    repo: aif-family.github.io
     oauth:
         client_id: 12a25e6b4fec28de2ea3
         client_secret: 4331b2c00a2e1ead64fafe789bd63ff109fd1f29
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: aif-home
-    repo: aif-home.github.io
+    repo: aif-family.github.io
     clientID: 12a25e6b4fec28de2ea3
     clientSecret: 4331b2c00a2e1ead64fafe789bd63ff109fd1f29
 # 在使用其它评论组件时可点击显示 Disqus
