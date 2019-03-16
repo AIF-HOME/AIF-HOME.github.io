@@ -95,17 +95,17 @@ disqus:
     username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: aif-home
+    owner: aif-family
     repo: aif-family.github.io
     oauth:
-        client_id: 12a25e6b4fec28de2ea3
-        client_secret: 4331b2c00a2e1ead64fafe789bd63ff109fd1f29
+        client_id: e656d165ee76b496658c
+        client_secret: 0834d352d369abd502449738e196816f061c715a
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: aif-home
+    owner: aif-family
     repo: aif-family.github.io
-    clientID: 12a25e6b4fec28de2ea3
-    clientSecret: 4331b2c00a2e1ead64fafe789bd63ff109fd1f29
+    clientID: e656d165ee76b496658c
+    clientSecret: 0834d352d369abd502449738e196816f061c715a
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
