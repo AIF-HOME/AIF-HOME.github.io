@@ -5,8 +5,8 @@ baseurl:
 url: https://aif-family.github.io/
 date_format: "ordinal"
 title: AIF
-subtitle: "致力于成为一流的技术团队，发出AIF技术人的声音！"
-description: "AIF的博客"
+subtitle: "开源，发出AIF技术人的声音！"
+description: "AIF技术博客"
 keywords: AIF
 timezone: Asia/Shanghai
 encoding: "utf-8"
