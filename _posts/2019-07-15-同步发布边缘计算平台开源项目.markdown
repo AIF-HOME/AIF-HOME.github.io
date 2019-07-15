@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 边缘计算实践-AIFDengine
-categories: [边缘计算实践]
+title: 边缘计算开源开篇-AIFDengine
+categories: [边缘计算]
 description: 边缘计算实践-AIFDengine项目
 keywords: 边缘计算
 ---
