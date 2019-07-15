@@ -1,0 +1,7 @@
+---
+layout: post
+title: 边缘计算实践-AIFDengine
+categories: [边缘计算实践]
+description: 边缘计算实践-AIFDengine项目
+keywords: 边缘计算
+---
